@@ -1,0 +1,3 @@
+{
+    "azureFunctions.projectSubpath": "terraform-provider-azurerm\\internal\\services\\appservice\\testdata"
+}
